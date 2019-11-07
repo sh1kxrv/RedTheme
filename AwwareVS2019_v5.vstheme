@@ -1407,7 +1407,7 @@
       </Color>
       <Color Name="enum name">
         <Background Type="CT_AUTOMATIC" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FFEF4F4A" />
+        <Foreground Type="CT_RAW" Source="FF9CE1F1" />
       </Color>
       <Color Name="module name">
         <Background Type="CT_AUTOMATIC" Source="00000000" />
@@ -1623,7 +1623,7 @@
       </Color>
       <Color Name="CppEnumSemanticTokenFormat">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FFD84F4F" />
+        <Foreground Type="CT_RAW" Source="FF94CBF5" />
       </Color>
       <Color Name="CppGlobalVariableSemanticTokenFormat">
         <Background Type="CT_INVALID" Source="00000000" />
@@ -1715,7 +1715,7 @@
       </Color>
       <Color Name="CppNewDeleteSemanticTokenFormat">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FF67ADE8" />
+        <Foreground Type="CT_RAW" Source="FF7AB7EA" />
       </Color>
       <Color Name="U-SQL - ClassName">
         <Background Type="CT_INVALID" Source="00000000" />
@@ -2179,7 +2179,7 @@
       </Color>
       <Color Name="CppControlKeywordSyntacticTokenFormat">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FF59C1EE" />
+        <Foreground Type="CT_RAW" Source="FF81CFF1" />
       </Color>
       <Color Name="CppStringEscapeCharacterSyntacticTokenFormat">
         <Background Type="CT_INVALID" Source="00000000" />
