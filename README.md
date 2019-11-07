@@ -3,7 +3,8 @@
 # C#
 ![Image alt](imgs/NETcode.png)
 
-<br>
+# C# | XAML
+![Image alt](imgs/XAMLcode.png)
 
 # C++
 ![Image alt](imgs/CPPcode.png)
