@@ -1,5 +1,5 @@
 <Themes>
-  <Theme Name="Awware | Red Theme (1)" GUID="{1f4224af-25bd-4362-82a8-e5969e262398}">
+  <Theme Name="Awware | Red Theme" GUID="{4e8286f1-3bcf-43d2-9de9-3e5eeccc8a20}">
     <Category Name="ACDCOverview" GUID="{c8887ac6-3c60-4209-9d69-8f4c12a60044}">
       <Color Name="Body">
         <Background Type="CT_RAW" Source="FF252526" />
@@ -1263,7 +1263,7 @@
       </Color>
       <Color Name="HTML Element Name">
         <Background Type="CT_AUTOMATIC" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FFE5C07B" />
+        <Foreground Type="CT_RAW" Source="FFE46076" />
       </Color>
       <Color Name="HTML Entity">
         <Background Type="CT_AUTOMATIC" Source="00000000" />
@@ -1274,8 +1274,8 @@
         <Foreground Type="CT_RAW" Source="FFB4B4B4" />
       </Color>
       <Color Name="HTML Server-Side Script">
-        <Background Type="CT_RAW" Source="FFFFFFB3" />
-        <Foreground Type="CT_RAW" Source="FF000000" />
+        <Background Type="CT_RAW" Source="FF282E38" />
+        <Foreground Type="CT_RAW" Source="FFFFFFFF" />
       </Color>
       <Color Name="HTML Tag Delimiter">
         <Background Type="CT_AUTOMATIC" Source="00000000" />
@@ -1411,7 +1411,7 @@
       </Color>
       <Color Name="module name">
         <Background Type="CT_AUTOMATIC" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FFE5C07B" />
+        <Foreground Type="CT_RAW" Source="FFE46076" />
       </Color>
       <Color Name="class name">
         <Background Type="CT_AUTOMATIC" Source="00000000" />
@@ -1546,16 +1546,16 @@
         <Foreground Type="CT_RAW" Source="FF9B9B9B" />
       </Color>
       <Color Name="RazorCode">
-        <Background Type="CT_RAW" Source="FF505050" />
-        <Foreground Type="CT_INVALID" Source="00000000" />
+        <Background Type="CT_RAW" Source="FF282E38" />
+        <Foreground Type="CT_RAW" Source="FFFFFFFF" />
       </Color>
       <Color Name="RazorTagHelperAttribute">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FF008080" />
+        <Foreground Type="CT_RAW" Source="FFCF8694" />
       </Color>
       <Color Name="RazorTagHelperElement">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FF008080" />
+        <Foreground Type="CT_RAW" Source="FFE56767" />
       </Color>
       <Color Name="HtmlClientTemplateValueFormatDefinition">
         <Background Type="CT_INVALID" Source="00000000" />
@@ -1716,50 +1716,6 @@
       <Color Name="CppNewDeleteSemanticTokenFormat">
         <Background Type="CT_INVALID" Source="00000000" />
         <Foreground Type="CT_RAW" Source="FF7AB7EA" />
-      </Color>
-      <Color Name="U-SQL - ClassName">
-        <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_INVALID" Source="00000000" />
-      </Color>
-      <Color Name="U-SQL - Error">
-        <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_INVALID" Source="00000000" />
-      </Color>
-      <Color Name="U-SQL - BuiltInFunction">
-        <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_INVALID" Source="00000000" />
-      </Color>
-      <Color Name="U-SQL - Parameter">
-        <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_INVALID" Source="00000000" />
-      </Color>
-      <Color Name="U-SQL - Preprocess">
-        <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_INVALID" Source="00000000" />
-      </Color>
-      <Color Name="U-SQL - Text">
-        <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_INVALID" Source="00000000" />
-      </Color>
-      <Color Name="U-SQL - Keyword">
-        <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_INVALID" Source="00000000" />
-      </Color>
-      <Color Name="U-SQL - Comment">
-        <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_INVALID" Source="00000000" />
-      </Color>
-      <Color Name="U-SQL - Identifier">
-        <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_INVALID" Source="00000000" />
-      </Color>
-      <Color Name="U-SQL - String">
-        <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_INVALID" Source="00000000" />
-      </Color>
-      <Color Name="U-SQL - Number">
-        <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_INVALID" Source="00000000" />
       </Color>
       <Color Name="TextMate.Classifier">
         <Background Type="CT_INVALID" Source="00000000" />
@@ -1995,7 +1951,7 @@
       </Color>
       <Color Name="HtmlClientTemplateTagFormatDefinition">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_INVALID" Source="00000000" />
+        <Foreground Type="CT_RAW" Source="FF3C933C" />
       </Color>
       <Color Name="UnnecessaryCode">
         <Background Type="CT_INVALID" Source="00000000" />
@@ -2920,7 +2876,7 @@
         <Foreground Type="CT_RAW" Source="FFB5CEA8" />
       </Color>
       <Color Name="ScriptClassName">
-        <Foreground Type="CT_RAW" Source="FFE5C07B" />
+        <Foreground Type="CT_RAW" Source="FFE46076" />
       </Color>
       <Color Name="ScriptError">
         <Foreground Type="CT_RAW" Source="FFC40000" />
@@ -5709,6 +5665,18 @@
       <Color Name="Halo">
         <Background Type="CT_RAW" Source="FF282E38" />
       </Color>
+      <Color Name="FileTabParentText">
+        <Background Type="CT_RAW" Source="CA000000" />
+      </Color>
+      <Color Name="FileTabGroupTitleBackground">
+        <Background Type="CT_RAW" Source="FF282E38" />
+      </Color>
+      <Color Name="FileTabActiveGroupTitleBackground">
+        <Background Type="CT_RAW" Source="FF282E38" />
+      </Color>
+      <Color Name="FileTabActiveGroupBackground">
+        <Background Type="CT_RAW" Source="FF282E38" />
+      </Color>
     </Category>
     <Category Name="Find" GUID="{4370282e-987e-4ac4-ad14-5ffed2ad1e14}">
       <Color Name="DropDownMenuMouseDown">
@@ -8404,19 +8372,11 @@
         <Background Type="CT_AUTOMATIC" Source="00000000" />
         <Foreground Type="CT_RAW" Source="FF569CD6" />
       </Color>
-      <Color Name="Function">
-        <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_INVALID" Source="00000000" />
-      </Color>
       <Color Name="Memory Data">
         <Background Type="CT_INVALID" Source="00000000" />
         <Foreground Type="CT_INVALID" Source="00000000" />
       </Color>
       <Color Name="Register Data">
-        <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_INVALID" Source="00000000" />
-      </Color>
-      <Color Name="StreamAnalytics - BuiltInFunction">
         <Background Type="CT_INVALID" Source="00000000" />
         <Foreground Type="CT_INVALID" Source="00000000" />
       </Color>
